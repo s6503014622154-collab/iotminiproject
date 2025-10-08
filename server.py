@@ -1,4 +1,4 @@
-# server.py  (insightface + Telegram + LINE Messaging Push + Email TEXT ONLY + Google Sheet)
+# server.py  (insightface + Telegram + LINE Messaging Push + Email TEXT ONLY + Google Sheet) รักจุนซี่  
 from fastapi import FastAPI, UploadFile, File, Body
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
